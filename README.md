@@ -2,8 +2,7 @@
 
 
 ## I'm a Game Developer !
--  I’m currently making a game engine 
--  I’ currently also learning JAVA
+-  I’ currently learning JAVA
 
 <br />
 
