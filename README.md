@@ -2,7 +2,7 @@
 
 
 ## I'm a Game Developer !
--  I’ currently learning JAVA
+-  Im currently making a discord bot
 
 <br />
 
