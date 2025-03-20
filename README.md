@@ -10,7 +10,7 @@
 
 </pre>
 <br><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Grand_Blue_Logo.png" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Grand_Blue_Logo.png" height="75" />
 <br><br><br>
     
 </div>
