@@ -7,9 +7,10 @@
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
     🤿 Certified Grand Blue Fan
+<img src="https://media1.tenor.com/m/C1imUCEpiFgAAAAd/grand-blue-hide.gif" height="150" />
 </pre>
 <br>
-<img src="https://media1.tenor.com/m/C1imUCEpiFgAAAAd/grand-blue-hide.gif" height="150" />
+
 <br><br><br>
     
 </div>
