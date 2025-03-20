@@ -7,6 +7,7 @@
     💻 Programming languages • NodeJS 
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
+    🤿 Certified Grand Blue Fan
 </pre>
 <br><br>
 <img src="https://media1.tenor.com/m/C1imUCEpiFgAAAAd/grand-blue-hide.gif" height="150" />
