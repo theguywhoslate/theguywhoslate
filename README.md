@@ -9,7 +9,7 @@
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br><br>
-<img src="https://media1.tenor.com/m/C1imUCEpiFgAAAAd/grand-blue-hide.gif" height="40" />
+<img src="https://media1.tenor.com/m/C1imUCEpiFgAAAAd/grand-blue-hide.gif" height="80" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
